@@ -1,5 +1,5 @@
 # SAE 1.06
-> Yifru Rouillon Welty
+> Réalisé par Yifru Rouillon Welty
 
 - https://seshat.gitlabpages.inria.fr/sae1-06/welty/index.html
 
